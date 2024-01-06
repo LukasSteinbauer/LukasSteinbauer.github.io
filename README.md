@@ -1,10 +1,1 @@
-@echo off
-REM Forge requires a configured set of both JVM and program arguments.
-REM Add custom JVM arguments to the user_jvm_args.txt
-REM Add custom program arguments {such as nogui} to this file in the next line before the %* or
-REM  pass them to this script directly
-java @user_jvm_args.txt @libraries/net/minecraftforge/forge/1.20.1-47.0.35/win_args.txt nogui %*
-pause
-
-This is a test.
-Now added a side-branch.
+test1 repository is a test repository I made for my university with the help of a tutorial (which was  a bit confusing so I also used a YouTube video).
